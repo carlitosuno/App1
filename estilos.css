@@ -1,0 +1,33 @@
+/*RESETEAR LA HOJA DE ESTILOS*/
+.operacion{
+    height: 40%;
+    width: 100%;
+    align-content: center;
+    border-radius: 5px;
+    background:#7FFF00;
+    border: 2px;
+    float: left;
+    font-size: 4em;
+    color: white;
+    text-align: right;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bot{
+    height:15%;
+    width: 25%;
+    float: left;
+    font-size: 2em;
+    border: none;
+
+}
+
+.activo{
+    background: #0000ff;
+    font-size: 2em;
+    color: white;   
+}
